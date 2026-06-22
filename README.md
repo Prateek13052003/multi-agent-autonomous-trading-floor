@@ -8,7 +8,7 @@
 
 This project implements a Multi-Agent Autonomous Trading Floor where multiple AI traders independently analyze market conditions, perform research, manage portfolios, execute trades, and rebalance investments using MCP-enabled tools and resources.
 
-The system combines:
+The System Combines:
 
 - Model Context Protocol (MCP)
 - Ollama (Qwen 2.5)
